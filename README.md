@@ -38,5 +38,8 @@ https://proandroiddev.com/re-training-the-model-with-images-using-tensorflow-775
 https://github.com/tensorflow/models/blob/master/research/slim/README.md
 https://github.com/tensorflow/hub/tree/master/examples/image_retraining
 
+##Cool to try:
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite/examples/android/app
+
 
 Models: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/lite/g3doc/models.md
